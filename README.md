@@ -1,4 +1,4 @@
-# 💒 Wedding Event Management System
+<img width="452" height="228" alt="image" src="https://github.com/user-attachments/assets/d4367b6e-5022-4254-b59b-ab0e5bac3c8c" /># 💒 Wedding Event Management System
 
 This is a dynamic web-based application designed to help users plan and manage wedding events effortlessly. It creates a streamlined and user-friendly planning environment, targeting users who may feel overwhelmed by the numerous tasks and complexities associated with coordinating a wedding.
 
@@ -28,20 +28,17 @@ From booking venues and vendors to selecting between full and custom packages, t
 
 ## 📸 Screenshots
 
-*(You can add your project screenshots here)*
 
 **Example:**
 * **Homepage:**
-    `
+    <img width="1819" height="892" alt="image" src="https://github.com/user-attachments/assets/87d1be57-8957-4f89-9137-e5923907f20a" />
 
-[Image of Homepage]
-`
 * **Package Selection:**
-    ``
+    <img width="452" height="228" alt="image" src="https://github.com/user-attachments/assets/801ddfe4-cdf6-49ab-9dc1-61b3dad14247" />
+
 * **Full Event Planning Form:**
-    ``
-* **Budget Summary:**
-    ``
+    <img width="452" height="229" alt="image" src="https://github.com/user-attachments/assets/9de15194-2e2c-4fce-a701-51b5603fd3a8" />
+    
 
 ---
 
